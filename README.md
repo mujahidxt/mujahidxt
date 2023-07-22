@@ -1,6 +1,6 @@
 ## Hi there, I'm Muhammad Mujahid (mujahid;)
 
-### I'm a Software Engineer and Entrepreneur!
+### I'm a .Net Developer and Entrepreneur!
 - Currently working as a Software Engineer at Digital Dividend
 - In my spare time, I assist startup in product development and work on my own product ideas
 - I specialize in .Net projects, but also have proficient skills in React and MongoDB.
